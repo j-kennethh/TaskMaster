@@ -2,7 +2,7 @@ from tabulate import tabulate
 
 
 def main():
-    print("\nTaskMaster")
+    print("\nTaskMaster | To-Do List")
     running = True
     database, count = [], 0
 
